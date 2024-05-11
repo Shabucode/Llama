@@ -1,2 +1,2 @@
-##LLama 2 for customised blog post creation
+## LLama 2 for customised blog post creation
 This repository contains code and instructions for creating a blog using the LLAMA 2 model, a language model with 7 billion parameters, executed using the Hugging Face (GGML) model. LLAMA 2 is a powerful natural language processing (NLP) model capable of generating coherent and contextually relevant text, making it suitable for various text generation tasks, including blog post creation.
